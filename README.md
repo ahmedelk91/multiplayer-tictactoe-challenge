@@ -39,7 +39,7 @@ You are free to use whatever language, stack, framework, library, package or tec
 
 How the game looks and behaves is up to you. The above example is not a wireframe, it is merely an example of the real-time multiplayer functionality we are looking for. The game should resemble Tic Tac Toe and it should be multiplayer. 
 
-Please do not spend more than 4 hours on this challenge (it should take 1-3 hours depending on skill level). If you have reached the 4 hour mark and have not completed the challenge, please submit what you have done. We are not looking for a production Tic Tac Toe platform that can handle 5 million unique hits a second. Please keep the end product lean and simple.
+Please do not spend more than 4 hours on this challenge. If you have reached the 4 hour mark and have not completed the challenge, please submit what you have done. We are not looking for a production Tic Tac Toe platform that can handle 5 million unique hits a second. Please keep the end product lean and simple.
 
 ### Deliverable:
 1) Please deliver the code to us via a Github repo.
