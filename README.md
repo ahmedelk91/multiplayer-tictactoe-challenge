@@ -2,7 +2,7 @@
 
 In this challenge you will build a networked multiplayer Tic Tac Toe game.
 
-This means two different users on two different clients should be able to navigate to the game and play Tic Tac Toe against each other in realtime.
+This means two different users on two different clients should be able to navigate to the game and play Tic Tac Toe against each other in real-time.
 
 Below is an example of the kind of multiplayer behavior we are looking for.
 
@@ -35,7 +35,7 @@ User 1 client:
 <hr/>
 
 ### Details:
-You are free to use whatever language, framework, library, package, technology you want. The purpose of this challenge is to see how you approach a complex problem and architect a simple, concise solution. There are many different ways you could approach this problem. You could use web sockets or poll the server. You could use a Node server or a Sinatra server or even go server-less! You could use React or some plain javascript. You are in total control of the technology used to solve this challenge. 
+You are free to use whatever language, stack, framework, library, package or technology you want. The purpose of this challenge is to see how you approach a complex problem and architect a simple, concise solution. There are many different ways you could approach this problem. You could use WebSockets or poll the server. You could use a Node server or a Sinatra server or even go serverless. You could use React or some plain JavaScript. You are in total control of the technology used to solve this challenge. 
 
 How the game looks and behaves is up to you. The above example is not a wireframe, it is merely an example of the real-time multiplayer functionality we are looking for. The game should resemble Tic Tac Toe and it should be multiplayer. 
 
