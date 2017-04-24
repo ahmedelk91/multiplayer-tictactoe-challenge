@@ -13,18 +13,22 @@ User 1 and User 2 navigate to game link and see an empty Tic Tac Toe board.
 User 1 clicks on a square and it fills with an O. User 2 sees this O appear in realtime.
 
 User 1 client:
+
 ![Image of user 1 move 1](./assets/user-1-move-1.png)
 
 User 2 client:
+
 ![Image of user 2 move 1](./assets/user-2-move-1.png)
 
 #### Move-2: 
 User 2 clicks on a square and it fills with an X. User 1 sees this X appear in realtime.
 
 User 2 client:
+
 ![Image of user 2 move 2](./assets/user-2-move-2.png)
 
 User 1 client:
+
 ![Image of user 1 move 2](./assets/user-1-move-2.png)
 
 
