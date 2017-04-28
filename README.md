@@ -35,13 +35,13 @@ User 1 client:
 <hr/>
 
 ### Details:
-You are free to use whatever language, stack, framework, library, package or technology you want. The purpose of this challenge is to see how you approach a complex problem and architect a simple, concise solution. There are many different ways you could approach this problem. You could use WebSockets or poll the server. You could use a Node server or a Sinatra server or even go serverless. You could use React or some plain JavaScript. You are in total control of the technology used to solve this challenge. 
+You are free to use whatever language, stack, framework, library, package or technology you want. The purpose of this challenge is to demonstrate how you approach a complex problem and architect a simple, concise solution. There are many different ways you could approach this problem. You could use WebSockets or poll the server. You could use a Node server or a Sinatra server or even go serverless. You could use React or some plain JavaScript. You are in total control of the technology used to solve this challenge. 
 
-How the game looks and behaves is up to you. The above example is not a wireframe, it is merely an example of the real-time multiplayer functionality we are looking for. The game should resemble Tic Tac Toe and it should be multiplayer. 
+The game look and behavior is up to you. The images above are an example of the real-time multiplayer functionality we are looking for.
 
-Please do not spend more than 4 hours on this challenge. If you have reached the 4 hour mark and have not completed the challenge, please submit what you have done. We are not looking for a production Tic Tac Toe platform that can handle 5 million unique hits a second. Please keep the end product lean and simple.
+This challenge has a self-enforced time limit of 4 hours. If you have reached the 4 hour mark and have not completed the challenge, submit what you have completed. We are not looking for a production Tic Tac Toe platform that can handle 5 million unique hits a second. Please keep the end product lean and simple.
 
 ### Deliverable:
-1) Please deliver the code to us via a Github repo.
-2) Please be prepared to demo and explain your solution in an in-person interview.
+1) Reply to our email with the link to the Github repo where your solution is located.
+2) Be prepared to demo and explain your solution in an in-person interview.
 
