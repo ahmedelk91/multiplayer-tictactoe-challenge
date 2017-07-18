@@ -61,9 +61,6 @@ $(document).ready(function(){
     } else if($('#square1').html()===symbol && $('#square5').html()===symbol && $('#square9').html()===symbol){
       $('#square1, #square5, #square9').addClass('won')
       alert(player + " wins!")
-    } else if($('#square1').html()===symbol && $('#square5').html()===symbol && $('#square3').html()===symbol){
-      $('#square1, #square5, #square3').addClass('won')
-      alert(player + " wins!")
     } else if($('#square3').html()===symbol && $('#square5').html()===symbol && $('#square7').html()===symbol){
       $('#square3, #square5, #square7').addClass('won')
       alert(player + " wins!")
