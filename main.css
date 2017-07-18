@@ -6,6 +6,8 @@
 div {
   height: 230px;
   border: 2px black solid;
+  text-align: center;
+  font-size: 150px;
 }
 
 #title {
