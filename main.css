@@ -1,0 +1,13 @@
+#game {
+  width: 800px;
+  margin: 0 auto;
+}
+
+div {
+  height: 230px;
+  border: 2px black solid;
+}
+
+#title {
+  text-align: center;
+}
