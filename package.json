@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ahmedelk91/multiplayer-tictactoe-challenge/issues"
   },
-  "homepage": "https://github.com/ahmedelk91/multiplayer-tictactoe-challenge#readme"
+  "homepage": "https://github.com/ahmedelk91/multiplayer-tictactoe-challenge#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }

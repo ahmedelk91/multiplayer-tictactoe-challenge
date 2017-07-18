@@ -36,6 +36,8 @@ $(document).ready(function(){
     };
   });
 
+  // checkVictory function, compares each possible victory to player symbol 'X' or 'O'
+  
   function checkVictory(){
     if($('#square1').html()===symbol && $('#square2').html()===symbol && $('#square3').html()===symbol){
       alert(player + " wins!");
