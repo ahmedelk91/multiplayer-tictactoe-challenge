@@ -3,7 +3,7 @@
   margin: 0 auto;
 }
 
-div {
+.choice {
   height: 230px;
   border: 2px black solid;
   text-align: center;
@@ -14,6 +14,6 @@ div {
   text-align: center;
 }
 
-#start {
-  margin: 0 auto;
+.won {
+  background-color: red;
 }

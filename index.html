@@ -12,6 +12,9 @@
 <body>
 
   <h1 id="title">TIC TAC TOE</h1>
+  <input class="" type="button" onclick="myFunction()" value="Start">
+  <input class="" type="button" onclick="myFunction()" value="Restart">
+
   <!-- <button id="start">Start</button> -->
 
   <div id="game">
@@ -32,7 +35,11 @@
 
   <script src="/socket.io/socket.io.js"></script>
   <script>
-  var socket = io();
+  $('.choice').on('click', function(){
+    var socket = io();
+    socket.emit('checkVictory');
+  });
+
   </script>
 
 </body>
