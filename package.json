@@ -1,0 +1,20 @@
+{
+  "name": "multiplayer-tictactoe-challenge",
+  "version": "1.0.0",
+  "description": "In this challenge you will build a networked multiplayer Tic Tac Toe game.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedelk91/multiplayer-tictactoe-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedelk91/multiplayer-tictactoe-challenge/issues"
+  },
+  "homepage": "https://github.com/ahmedelk91/multiplayer-tictactoe-challenge#readme"
+}
