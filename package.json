@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ahmedelk91/multiplayer-tictactoe-challenge#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "socket.io": "^2.0.3"
   }
 }
