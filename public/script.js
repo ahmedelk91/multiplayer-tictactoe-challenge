@@ -10,10 +10,11 @@ $(document).ready(function(){
 
   // start button logic to initiate the game
 
-  $('#start').on("click", function(evt){
-    alert('Game Started! Player X, begin!');
-    turnOffStart();
-  });
+  $('#restart').click(function(){
+    $('.choice').html('');
+    $('.choice').removeClass('won');
+    gameRound = 1;
+  })
 
   function turnOffStart(){
     $('#start').off("click");

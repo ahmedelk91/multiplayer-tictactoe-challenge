@@ -4,7 +4,7 @@
 }
 
 .choice {
-  height: 230px;
+  height: 200px;
   border: 2px black solid;
   text-align: center;
   font-size: 150px;
@@ -16,4 +16,8 @@
 
 .won {
   background-color: red;
+}
+
+button {
+  width: 200px;
 }
